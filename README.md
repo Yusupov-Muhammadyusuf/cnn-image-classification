@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=plastic&logo=Matplotlib&logoColor=white)
 
 This project implements a **Convolutional Neural Network (CNN)** to classify images from the **CIFAR-10** dataset using the PyTorch framework.
 
